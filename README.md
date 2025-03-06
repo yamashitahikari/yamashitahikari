@@ -1,4 +1,14 @@
-## Hi👋, I'm Hikari Yamashita
+<div align="center">
+  <p> \ Hello🌷 / </p>
+  <p> I'm Hikari Yamashita！</p>
+  <p>I have experienced developing various applications in my Miz-Engineer classes 💻</p>
+</div>
+
+### Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,express,tailwindcss,python,fastapi,django,prisma,sqlite,mysql,postgres,docker,firebase,git,github,vscode" />
+</p>
 
 <table>
   <tr>
