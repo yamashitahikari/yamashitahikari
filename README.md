@@ -1,8 +1,6 @@
-<div align="center" style="font-size:20px; font-weight:bold;">
-  <p> \ Hello🌷 / </p>
-  <p> I'm Hikari Yamashita！</p>
-  <p>I have experienced developing various applications in my Ms.Engineer 💻</p>
-</div>
+<h1 align="center"> \ Hello🌷 / </h1>
+<h3 align="center"> I'm Hikari Yamashita！</h3>
+<h3 align="center">I have experienced developing various applications in my Ms.Engineer 💻</h3>
 
 ### Languages and Tools:
 
