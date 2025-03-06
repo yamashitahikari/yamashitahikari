@@ -1,7 +1,7 @@
 <div align="center">
   <p> \ Hello🌷 / </p>
   <p> I'm Hikari Yamashita！</p>
-  <p>I have experienced developing various applications in my Miz-Engineer classes 💻</p>
+  <p>I have experienced developing various applications in my Ms.Engineer 💻</p>
 </div>
 
 ### Languages and Tools:
