@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-size:20px; font-weight:bold;">
   <p> \ Hello🌷 / </p>
   <p> I'm Hikari Yamashita！</p>
   <p>I have experienced developing various applications in my Ms.Engineer 💻</p>
